@@ -20,3 +20,4 @@ This repository contains the TensorFlow programming assignment, covering:
 
 ## Files
 - `HomeAssignment1.py`: Code for tensor manipulations, Loss function implementation and comparison, Neural network training with TensorBoard.
+- 'HomeAssignment1GC.py': Google Collab code for tensor manipulations, loss function implimentation and comparision, Neural networ training with TensorBoard.
